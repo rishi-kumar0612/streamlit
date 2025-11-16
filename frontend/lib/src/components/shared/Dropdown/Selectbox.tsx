@@ -241,7 +241,7 @@ const Selectbox: FC<Props> = ({
                   style: () => {
                     const lightBackground = hasLightBackgroundColor(theme)
                     return {
-                      marginTop: theme.spacing.none,
+                      marginTop: theme.spacing.sm,
                       marginRight: theme.spacing.none,
                       marginBottom: theme.spacing.sm,
 

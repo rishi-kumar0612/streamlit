@@ -36,27 +36,27 @@
     "src": "../lib/src/assets/img/snow/flake-2.png"
   },
   "../lib/src/components/elements/ArrowVegaLiteChart/index.ts": {
-    "file": "static/js/index.CepdpFVN.js",
+    "file": "static/js/index.Cndzxtv_.js",
     "name": "index",
     "src": "../lib/src/components/elements/ArrowVegaLiteChart/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_withFullScreenWrapper.Jyjhb1lZ.js",
-      "_Toolbar.DWbDPF1d.js",
-      "_index.Dv1aDyDN.js",
-      "_FormClearHelper.1jQyM2bS.js",
+      "_withFullScreenWrapper.CHzBmbfH.js",
+      "_Toolbar.CeH_BFPu.js",
+      "_index.DQLHGcFr.js",
+      "_FormClearHelper.C6iU1_Of.js",
       "_sprintf.D7DtBTRn.js",
-      "_checkbox.-742GwSs.js",
+      "_checkbox.BsRJVYWo.js",
       "_createDownloadLinkElement.ZaXNnPK4.js",
-      "_toConsumableArray.DhYBBgFh.js",
-      "_possibleConstructorReturn.Dld7uhNt.js",
-      "_createSuper.CUmjs8Ve.js",
-      "_FileDownload.esm.BpVajZQ3.js"
+      "_toConsumableArray.5736zdnj.js",
+      "_possibleConstructorReturn.z4jU8BBc.js",
+      "_createSuper.hh42FOcc.js",
+      "_FileDownload.esm.BwABWlh2.js"
     ]
   },
   "../lib/src/components/elements/Audio/index.ts": {
-    "file": "static/js/index.Bsxh0vf5.js",
+    "file": "static/js/index.Bxfm8cEf.js",
     "name": "index",
     "src": "../lib/src/components/elements/Audio/index.ts",
     "isDynamicEntry": true,
@@ -65,13 +65,13 @@
     ]
   },
   "../lib/src/components/elements/Balloons/index.ts": {
-    "file": "static/js/index.5A_tt6rF.js",
+    "file": "static/js/index.Cg_8bpjO.js",
     "name": "index",
     "src": "../lib/src/components/elements/Balloons/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_Particles.DU-zLMLf.js"
+      "_Particles.-Rpp3VnU.js"
     ],
     "assets": [
       "static/media/balloon-0.Czj7AKwE.png",
@@ -83,7 +83,7 @@
     ]
   },
   "../lib/src/components/elements/BokehChart/index.ts": {
-    "file": "static/js/index.Bp0R02UE.js",
+    "file": "static/js/index.Q-I911kJ.js",
     "name": "index",
     "src": "../lib/src/components/elements/BokehChart/index.ts",
     "isDynamicEntry": true,
@@ -92,36 +92,36 @@
     ]
   },
   "../lib/src/components/elements/DeckGlJsonChart/index.ts": {
-    "file": "static/js/index.B0fedUVO.js",
+    "file": "static/js/index.COklV9ZE.js",
     "name": "index",
     "src": "../lib/src/components/elements/DeckGlJsonChart/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_toConsumableArray.DhYBBgFh.js",
-      "_possibleConstructorReturn.Dld7uhNt.js",
-      "_withFullScreenWrapper.Jyjhb1lZ.js",
-      "_Toolbar.DWbDPF1d.js",
-      "_useBasicWidgetState.C47iqfja.js",
-      "_FormClearHelper.1jQyM2bS.js"
+      "_toConsumableArray.5736zdnj.js",
+      "_possibleConstructorReturn.z4jU8BBc.js",
+      "_withFullScreenWrapper.CHzBmbfH.js",
+      "_Toolbar.CeH_BFPu.js",
+      "_useBasicWidgetState.CYCKMuui.js",
+      "_FormClearHelper.C6iU1_Of.js"
     ],
     "css": [
       "static/css/index.DzuxGC_t.css"
     ]
   },
   "../lib/src/components/elements/GraphVizChart/index.ts": {
-    "file": "static/js/index.DhHydA7T.js",
+    "file": "static/js/index.D5jpykVp.js",
     "name": "index",
     "src": "../lib/src/components/elements/GraphVizChart/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_withFullScreenWrapper.Jyjhb1lZ.js",
-      "_Toolbar.DWbDPF1d.js"
+      "_withFullScreenWrapper.CHzBmbfH.js",
+      "_Toolbar.CeH_BFPu.js"
     ]
   },
   "../lib/src/components/elements/Html/index.ts": {
-    "file": "static/js/index.DuNnIwkI.js",
+    "file": "static/js/index.Bz6C1elQ.js",
     "name": "index",
     "src": "../lib/src/components/elements/Html/index.ts",
     "isDynamicEntry": true,
@@ -130,7 +130,7 @@
     ]
   },
   "../lib/src/components/elements/IFrame/index.ts": {
-    "file": "static/js/index.Dfo1Vrf8.js",
+    "file": "static/js/index.CN2VrtRO.js",
     "name": "index",
     "src": "../lib/src/components/elements/IFrame/index.ts",
     "isDynamicEntry": true,
@@ -139,18 +139,18 @@
     ]
   },
   "../lib/src/components/elements/ImageList/index.ts": {
-    "file": "static/js/index.C8s6LI4A.js",
+    "file": "static/js/index.D4q5NYHT.js",
     "name": "index",
     "src": "../lib/src/components/elements/ImageList/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_withFullScreenWrapper.Jyjhb1lZ.js",
-      "_Toolbar.DWbDPF1d.js"
+      "_withFullScreenWrapper.CHzBmbfH.js",
+      "_Toolbar.CeH_BFPu.js"
     ]
   },
   "../lib/src/components/elements/LinkButton/index.ts": {
-    "file": "static/js/index.D2L83NLD.js",
+    "file": "static/js/index.CWBlqYbR.js",
     "name": "index",
     "src": "../lib/src/components/elements/LinkButton/index.ts",
     "isDynamicEntry": true,
@@ -159,7 +159,7 @@
     ]
   },
   "../lib/src/components/elements/PageLink/index.ts": {
-    "file": "static/js/index.zzm_UeyU.js",
+    "file": "static/js/index.CkkY6gWy.js",
     "name": "index",
     "src": "../lib/src/components/elements/PageLink/index.ts",
     "isDynamicEntry": true,
@@ -168,34 +168,34 @@
     ]
   },
   "../lib/src/components/elements/PlotlyChart/index.ts": {
-    "file": "static/js/index.6HTTDJhI.js",
+    "file": "static/js/index.UZomuTDm.js",
     "name": "index",
     "src": "../lib/src/components/elements/PlotlyChart/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_withFullScreenWrapper.Jyjhb1lZ.js",
-      "_FormClearHelper.1jQyM2bS.js"
+      "_withFullScreenWrapper.CHzBmbfH.js",
+      "_FormClearHelper.C6iU1_Of.js"
     ]
   },
   "../lib/src/components/elements/Progress/index.ts": {
-    "file": "static/js/index.BJxuwHAj.js",
+    "file": "static/js/index.Dlxstwkk.js",
     "name": "index",
     "src": "../lib/src/components/elements/Progress/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_ProgressBar.07afm_vk.js"
+      "_ProgressBar.DtcqP1gv.js"
     ]
   },
   "../lib/src/components/elements/Snow/index.ts": {
-    "file": "static/js/index.CESl2N92.js",
+    "file": "static/js/index.Cz0vM7Ys.js",
     "name": "index",
     "src": "../lib/src/components/elements/Snow/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_Particles.DU-zLMLf.js"
+      "_Particles.-Rpp3VnU.js"
     ],
     "assets": [
       "static/media/flake-0.DgWaVvm5.png",
@@ -204,7 +204,7 @@
     ]
   },
   "../lib/src/components/elements/Spinner/index.ts": {
-    "file": "static/js/index.D0nVSbJ1.js",
+    "file": "static/js/index.CMvooylR.js",
     "name": "index",
     "src": "../lib/src/components/elements/Spinner/index.ts",
     "isDynamicEntry": true,
@@ -213,7 +213,7 @@
     ]
   },
   "../lib/src/components/elements/Toast/index.ts": {
-    "file": "static/js/index.CGNXUV2H.js",
+    "file": "static/js/index.DfIqzi4P.js",
     "name": "index",
     "src": "../lib/src/components/elements/Toast/index.ts",
     "isDynamicEntry": true,
@@ -222,7 +222,7 @@
     ]
   },
   "../lib/src/components/elements/Video/index.ts": {
-    "file": "static/js/index.C1WprnZ0.js",
+    "file": "static/js/index.DhnPY7GE.js",
     "name": "index",
     "src": "../lib/src/components/elements/Video/index.ts",
     "isDynamicEntry": true,
@@ -231,21 +231,21 @@
     ]
   },
   "../lib/src/components/widgets/AudioInput/index.ts": {
-    "file": "static/js/index.DV9p3qYk.js",
+    "file": "static/js/index.XI1gD2aK.js",
     "name": "index",
     "src": "../lib/src/components/widgets/AudioInput/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_useWaveformController.Bf69KTUb.js",
-      "_Toolbar.DWbDPF1d.js",
-      "_FormClearHelper.1jQyM2bS.js",
+      "_useWaveformController.COGsKnnJ.js",
+      "_Toolbar.CeH_BFPu.js",
+      "_FormClearHelper.C6iU1_Of.js",
       "_createDownloadLinkElement.ZaXNnPK4.js",
-      "_FileDownload.esm.BpVajZQ3.js"
+      "_FileDownload.esm.BwABWlh2.js"
     ]
   },
   "../lib/src/components/widgets/BidiComponent/index.tsx": {
-    "file": "static/js/index.DDcQTfD-.js",
+    "file": "static/js/index.6UClAs7V.js",
     "name": "index",
     "src": "../lib/src/components/widgets/BidiComponent/index.tsx",
     "isDynamicEntry": true,
@@ -254,7 +254,7 @@
     ]
   },
   "../lib/src/components/widgets/Button/index.ts": {
-    "file": "static/js/index.DN_8Gt7Q.js",
+    "file": "static/js/index.COdkvVox.js",
     "name": "index",
     "src": "../lib/src/components/widgets/Button/index.ts",
     "isDynamicEntry": true,
@@ -263,87 +263,87 @@
     ]
   },
   "../lib/src/components/widgets/ButtonGroup/index.ts": {
-    "file": "static/js/index.CSZYO1sL.js",
+    "file": "static/js/index.BME0-Sei.js",
     "name": "index",
     "src": "../lib/src/components/widgets/ButtonGroup/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_useBasicWidgetState.C47iqfja.js",
-      "_FormClearHelper.1jQyM2bS.js"
+      "_useBasicWidgetState.CYCKMuui.js",
+      "_FormClearHelper.C6iU1_Of.js"
     ]
   },
   "../lib/src/components/widgets/CameraInput/index.ts": {
-    "file": "static/js/index.BntXNvtO.js",
+    "file": "static/js/index.CPqNkaEr.js",
     "name": "index",
     "src": "../lib/src/components/widgets/CameraInput/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_UploadFileInfo.C-jY39rj.js",
-      "_FormClearHelper.1jQyM2bS.js",
-      "_ProgressBar.07afm_vk.js"
+      "_FormClearHelper.C6iU1_Of.js",
+      "_ProgressBar.DtcqP1gv.js"
     ]
   },
   "../lib/src/components/widgets/ChatInput/index.ts": {
-    "file": "static/js/index.CNP_Zi-N.js",
+    "file": "static/js/index.CRKGNnZf.js",
     "name": "index",
     "src": "../lib/src/components/widgets/ChatInput/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_FileHelper.BiYpQRSm.js",
-      "_useWaveformController.Bf69KTUb.js",
-      "_InputInstructions.DbdocaAz.js",
-      "_useTextInputAutoExpand.a-Vn8Q6g.js",
+      "_FileHelper.Cc480zP6.js",
+      "_useWaveformController.COGsKnnJ.js",
+      "_InputInstructions.D7hxvmyk.js",
+      "_useTextInputAutoExpand.DLlblLzY.js",
       "_inputUtils.CptNuJwn.js",
-      "_ErrorOutline.esm.BMFxog1z.js",
+      "_ErrorOutline.esm.CeZ7cYMk.js",
       "_UploadFileInfo.C-jY39rj.js",
-      "_base-input.BiTZoYhx.js"
+      "_base-input.C7ImlwIw.js"
     ]
   },
   "../lib/src/components/widgets/Checkbox/index.ts": {
-    "file": "static/js/index.BBzXwxCZ.js",
+    "file": "static/js/index.B6CbAsWJ.js",
     "name": "index",
     "src": "../lib/src/components/widgets/Checkbox/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_useBasicWidgetState.C47iqfja.js",
-      "_checkbox.-742GwSs.js",
-      "_FormClearHelper.1jQyM2bS.js"
+      "_useBasicWidgetState.CYCKMuui.js",
+      "_checkbox.BsRJVYWo.js",
+      "_FormClearHelper.C6iU1_Of.js"
     ]
   },
   "../lib/src/components/widgets/ColorPicker/index.ts": {
-    "file": "static/js/index.Bb2okcL7.js",
+    "file": "static/js/index.MFxBkgtk.js",
     "name": "index",
     "src": "../lib/src/components/widgets/ColorPicker/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_useBasicWidgetState.C47iqfja.js",
-      "_FormClearHelper.1jQyM2bS.js"
+      "_useBasicWidgetState.CYCKMuui.js",
+      "_FormClearHelper.C6iU1_Of.js"
     ]
   },
   "../lib/src/components/widgets/DateInput/index.ts": {
-    "file": "static/js/index.30h4gxVU.js",
+    "file": "static/js/index.DCNpQQYk.js",
     "name": "index",
     "src": "../lib/src/components/widgets/DateInput/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_useBasicWidgetState.C47iqfja.js",
-      "_ErrorOutline.esm.BMFxog1z.js",
-      "_timepicker.CxrMJMvt.js",
-      "_input.cOtSHZd3.js",
-      "_base-input.BiTZoYhx.js",
-      "_FormClearHelper.1jQyM2bS.js",
-      "_possibleConstructorReturn.Dld7uhNt.js",
-      "_createSuper.CUmjs8Ve.js"
+      "_useBasicWidgetState.CYCKMuui.js",
+      "_ErrorOutline.esm.CeZ7cYMk.js",
+      "_timepicker.C5Sf8CEA.js",
+      "_input.BNYsq-HL.js",
+      "_base-input.C7ImlwIw.js",
+      "_FormClearHelper.C6iU1_Of.js",
+      "_possibleConstructorReturn.z4jU8BBc.js",
+      "_createSuper.hh42FOcc.js"
     ]
   },
   "../lib/src/components/widgets/DownloadButton/index.ts": {
-    "file": "static/js/index.Bdn-UMCw.js",
+    "file": "static/js/index.BykZhCV1.js",
     "name": "index",
     "src": "../lib/src/components/widgets/DownloadButton/index.ts",
     "isDynamicEntry": true,
@@ -353,164 +353,164 @@
     ]
   },
   "../lib/src/components/widgets/FileUploader/index.ts": {
-    "file": "static/js/index.Dkw_0Zx6.js",
+    "file": "static/js/index.CENqu7Ea.js",
     "name": "index",
     "src": "../lib/src/components/widgets/FileUploader/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_FormClearHelper.1jQyM2bS.js",
-      "_FileHelper.BiYpQRSm.js",
-      "_ProgressBar.07afm_vk.js",
+      "_FormClearHelper.C6iU1_Of.js",
+      "_FileHelper.Cc480zP6.js",
+      "_ProgressBar.DtcqP1gv.js",
       "_UploadFileInfo.C-jY39rj.js"
     ]
   },
   "../lib/src/components/widgets/Multiselect/index.ts": {
-    "file": "static/js/index.BK0Kp_Nj.js",
+    "file": "static/js/index.D6bU43or.js",
     "name": "index",
     "src": "../lib/src/components/widgets/Multiselect/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_useBasicWidgetState.C47iqfja.js",
-      "_FormClearHelper.1jQyM2bS.js"
+      "_useBasicWidgetState.CYCKMuui.js",
+      "_FormClearHelper.C6iU1_Of.js"
     ]
   },
   "../lib/src/components/widgets/NumberInput/index.ts": {
-    "file": "static/js/index.DlrRrHkl.js",
+    "file": "static/js/index.DslMOt0r.js",
     "name": "index",
     "src": "../lib/src/components/widgets/NumberInput/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_uniqueId.c9cJnPMy.js",
-      "_InputInstructions.DbdocaAz.js",
-      "_FormClearHelper.1jQyM2bS.js",
+      "_uniqueId.ve_kjmLn.js",
+      "_InputInstructions.D7hxvmyk.js",
+      "_FormClearHelper.C6iU1_Of.js",
       "_sprintf.D7DtBTRn.js",
-      "_input.cOtSHZd3.js",
-      "_base-input.BiTZoYhx.js"
+      "_input.BNYsq-HL.js",
+      "_base-input.C7ImlwIw.js"
     ]
   },
   "../lib/src/components/widgets/Radio/index.ts": {
-    "file": "static/js/index.CsG-GwWw.js",
+    "file": "static/js/index.DNDeVYv8.js",
     "name": "index",
     "src": "../lib/src/components/widgets/Radio/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_useBasicWidgetState.C47iqfja.js",
-      "_FormClearHelper.1jQyM2bS.js"
+      "_useBasicWidgetState.CYCKMuui.js",
+      "_FormClearHelper.C6iU1_Of.js"
     ]
   },
   "../lib/src/components/widgets/Selectbox/index.ts": {
-    "file": "static/js/index.Dh8fPGfT.js",
+    "file": "static/js/index.eyqkc0pE.js",
     "name": "index",
     "src": "../lib/src/components/widgets/Selectbox/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_useBasicWidgetState.C47iqfja.js",
-      "_FormClearHelper.1jQyM2bS.js"
+      "_useBasicWidgetState.CYCKMuui.js",
+      "_FormClearHelper.C6iU1_Of.js"
     ]
   },
   "../lib/src/components/widgets/Slider/index.ts": {
-    "file": "static/js/index.C-UZeMEV.js",
+    "file": "static/js/index.BhCv5I-y.js",
     "name": "index",
     "src": "../lib/src/components/widgets/Slider/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_sprintf.D7DtBTRn.js",
-      "_useBasicWidgetState.C47iqfja.js",
-      "_FormClearHelper.1jQyM2bS.js"
+      "_useBasicWidgetState.CYCKMuui.js",
+      "_FormClearHelper.C6iU1_Of.js"
     ]
   },
   "../lib/src/components/widgets/TextArea/index.ts": {
-    "file": "static/js/index.CAoICsmK.js",
+    "file": "static/js/index.hHtGzJdJ.js",
     "name": "index",
     "src": "../lib/src/components/widgets/TextArea/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_uniqueId.c9cJnPMy.js",
-      "_InputInstructions.DbdocaAz.js",
-      "_useBasicWidgetState.C47iqfja.js",
-      "_useUpdateUiValue.C6XHhtsY.js",
-      "_useTextInputAutoExpand.a-Vn8Q6g.js",
-      "_FormClearHelper.1jQyM2bS.js",
+      "_uniqueId.ve_kjmLn.js",
+      "_InputInstructions.D7hxvmyk.js",
+      "_useBasicWidgetState.CYCKMuui.js",
+      "_useUpdateUiValue.BDdqQGX7.js",
+      "_useTextInputAutoExpand.DLlblLzY.js",
+      "_FormClearHelper.C6iU1_Of.js",
       "_inputUtils.CptNuJwn.js",
-      "_base-input.BiTZoYhx.js"
+      "_base-input.C7ImlwIw.js"
     ]
   },
   "../lib/src/components/widgets/TextInput/index.ts": {
-    "file": "static/js/index.Dg0nj1dz.js",
+    "file": "static/js/index.Brqq--Jb.js",
     "name": "index",
     "src": "../lib/src/components/widgets/TextInput/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_uniqueId.c9cJnPMy.js",
-      "_InputInstructions.DbdocaAz.js",
-      "_useBasicWidgetState.C47iqfja.js",
-      "_useUpdateUiValue.C6XHhtsY.js",
-      "_input.cOtSHZd3.js",
-      "_FormClearHelper.1jQyM2bS.js",
+      "_uniqueId.ve_kjmLn.js",
+      "_InputInstructions.D7hxvmyk.js",
+      "_useBasicWidgetState.CYCKMuui.js",
+      "_useUpdateUiValue.BDdqQGX7.js",
+      "_input.BNYsq-HL.js",
+      "_FormClearHelper.C6iU1_Of.js",
       "_inputUtils.CptNuJwn.js",
-      "_base-input.BiTZoYhx.js"
+      "_base-input.C7ImlwIw.js"
     ]
   },
   "../lib/src/components/widgets/TimeInput/index.ts": {
-    "file": "static/js/index.BTJ_4RVu.js",
+    "file": "static/js/index.Ytikj-WD.js",
     "name": "index",
     "src": "../lib/src/components/widgets/TimeInput/index.ts",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_useBasicWidgetState.C47iqfja.js",
-      "_timepicker.CxrMJMvt.js",
-      "_FormClearHelper.1jQyM2bS.js",
-      "_possibleConstructorReturn.Dld7uhNt.js",
-      "_createSuper.CUmjs8Ve.js"
+      "_useBasicWidgetState.CYCKMuui.js",
+      "_timepicker.C5Sf8CEA.js",
+      "_FormClearHelper.C6iU1_Of.js",
+      "_possibleConstructorReturn.z4jU8BBc.js",
+      "_createSuper.hh42FOcc.js"
     ]
   },
   "../node_modules/@glideapps/glide-data-grid/dist/esm/internal/data-grid-overlay-editor/data-grid-overlay-editor.js": {
-    "file": "static/js/data-grid-overlay-editor.D9JvqiLW.js",
+    "file": "static/js/data-grid-overlay-editor.CXjpyXK0.js",
     "name": "data-grid-overlay-editor",
     "src": "../node_modules/@glideapps/glide-data-grid/dist/esm/internal/data-grid-overlay-editor/data-grid-overlay-editor.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_index.Dv1aDyDN.js",
-      "_withFullScreenWrapper.Jyjhb1lZ.js",
-      "_Toolbar.DWbDPF1d.js",
-      "_FormClearHelper.1jQyM2bS.js",
+      "_index.DQLHGcFr.js",
+      "_withFullScreenWrapper.CHzBmbfH.js",
+      "_Toolbar.CeH_BFPu.js",
+      "_FormClearHelper.C6iU1_Of.js",
       "_sprintf.D7DtBTRn.js",
-      "_checkbox.-742GwSs.js",
+      "_checkbox.BsRJVYWo.js",
       "_createDownloadLinkElement.ZaXNnPK4.js",
-      "_toConsumableArray.DhYBBgFh.js",
-      "_possibleConstructorReturn.Dld7uhNt.js",
-      "_createSuper.CUmjs8Ve.js",
-      "_FileDownload.esm.BpVajZQ3.js"
+      "_toConsumableArray.5736zdnj.js",
+      "_possibleConstructorReturn.z4jU8BBc.js",
+      "_createSuper.hh42FOcc.js",
+      "_FileDownload.esm.BwABWlh2.js"
     ]
   },
   "../node_modules/@glideapps/glide-data-grid/dist/esm/internal/data-grid-overlay-editor/private/number-overlay-editor.js": {
-    "file": "static/js/number-overlay-editor.9gSUEPmX.js",
+    "file": "static/js/number-overlay-editor.BEobBIFk.js",
     "name": "number-overlay-editor",
     "src": "../node_modules/@glideapps/glide-data-grid/dist/esm/internal/data-grid-overlay-editor/private/number-overlay-editor.js",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_index.Dv1aDyDN.js",
-      "_withFullScreenWrapper.Jyjhb1lZ.js",
-      "_Toolbar.DWbDPF1d.js",
-      "_FormClearHelper.1jQyM2bS.js",
+      "_index.DQLHGcFr.js",
+      "_withFullScreenWrapper.CHzBmbfH.js",
+      "_Toolbar.CeH_BFPu.js",
+      "_FormClearHelper.C6iU1_Of.js",
       "_sprintf.D7DtBTRn.js",
-      "_checkbox.-742GwSs.js",
+      "_checkbox.BsRJVYWo.js",
       "_createDownloadLinkElement.ZaXNnPK4.js",
-      "_toConsumableArray.DhYBBgFh.js",
-      "_possibleConstructorReturn.Dld7uhNt.js",
-      "_createSuper.CUmjs8Ve.js",
-      "_FileDownload.esm.BpVajZQ3.js"
+      "_toConsumableArray.5736zdnj.js",
+      "_possibleConstructorReturn.z4jU8BBc.js",
+      "_createSuper.hh42FOcc.js",
+      "_FileDownload.esm.BwABWlh2.js"
     ]
   },
   "../node_modules/katex/dist/fonts/KaTeX_AMS-Regular.ttf": {
@@ -750,32 +750,32 @@
     "src": "../node_modules/katex/dist/fonts/KaTeX_Typewriter-Regular.woff2"
   },
   "../node_modules/native-file-system-adapter/src/adapters/downloader.js": {
-    "file": "static/js/downloader.CQiZ9Rhs.js",
+    "file": "static/js/downloader.C2kI_iCN.js",
     "name": "downloader",
     "src": "../node_modules/native-file-system-adapter/src/adapters/downloader.js",
     "isDynamicEntry": true,
     "imports": [
-      "_es6.CIGjLulp.js",
+      "_es6.4Q1ql_WY.js",
       "index.html"
     ]
   },
   "../node_modules/native-file-system-adapter/src/adapters/memory.js": {
-    "file": "static/js/memory.yUNyTOG-.js",
+    "file": "static/js/memory.DH3st0hc.js",
     "name": "memory",
     "src": "../node_modules/native-file-system-adapter/src/adapters/memory.js",
     "isDynamicEntry": true,
     "imports": [
-      "_es6.CIGjLulp.js",
+      "_es6.4Q1ql_WY.js",
       "index.html"
     ]
   },
   "../node_modules/native-file-system-adapter/src/adapters/sandbox.js": {
-    "file": "static/js/sandbox.B6Q_3uaj.js",
+    "file": "static/js/sandbox.CqByvIdB.js",
     "name": "sandbox",
     "src": "../node_modules/native-file-system-adapter/src/adapters/sandbox.js",
     "isDynamicEntry": true,
     "imports": [
-      "_es6.CIGjLulp.js",
+      "_es6.4Q1ql_WY.js",
       "index.html"
     ]
   },
@@ -791,58 +791,58 @@
     "src": "../node_modules/wavesurfer.js/dist/wavesurfer.esm.js",
     "isDynamicEntry": true
   },
-  "_ErrorOutline.esm.BMFxog1z.js": {
-    "file": "static/js/ErrorOutline.esm.BMFxog1z.js",
+  "_ErrorOutline.esm.CeZ7cYMk.js": {
+    "file": "static/js/ErrorOutline.esm.CeZ7cYMk.js",
     "name": "ErrorOutline.esm",
     "imports": [
       "index.html"
     ]
   },
-  "_FileDownload.esm.BpVajZQ3.js": {
-    "file": "static/js/FileDownload.esm.BpVajZQ3.js",
+  "_FileDownload.esm.BwABWlh2.js": {
+    "file": "static/js/FileDownload.esm.BwABWlh2.js",
     "name": "FileDownload.esm",
     "imports": [
       "index.html"
     ]
   },
-  "_FileHelper.BiYpQRSm.js": {
-    "file": "static/js/FileHelper.BiYpQRSm.js",
+  "_FileHelper.Cc480zP6.js": {
+    "file": "static/js/FileHelper.Cc480zP6.js",
     "name": "FileHelper",
     "imports": [
       "index.html",
       "_UploadFileInfo.C-jY39rj.js"
     ]
   },
-  "_FormClearHelper.1jQyM2bS.js": {
-    "file": "static/js/FormClearHelper.1jQyM2bS.js",
+  "_FormClearHelper.C6iU1_Of.js": {
+    "file": "static/js/FormClearHelper.C6iU1_Of.js",
     "name": "FormClearHelper",
     "imports": [
       "index.html"
     ]
   },
-  "_InputInstructions.DbdocaAz.js": {
-    "file": "static/js/InputInstructions.DbdocaAz.js",
+  "_InputInstructions.D7hxvmyk.js": {
+    "file": "static/js/InputInstructions.D7hxvmyk.js",
     "name": "InputInstructions",
     "imports": [
       "index.html"
     ]
   },
-  "_Particles.DU-zLMLf.js": {
-    "file": "static/js/Particles.DU-zLMLf.js",
+  "_Particles.-Rpp3VnU.js": {
+    "file": "static/js/Particles.-Rpp3VnU.js",
     "name": "Particles",
     "imports": [
       "index.html"
     ]
   },
-  "_ProgressBar.07afm_vk.js": {
-    "file": "static/js/ProgressBar.07afm_vk.js",
+  "_ProgressBar.DtcqP1gv.js": {
+    "file": "static/js/ProgressBar.DtcqP1gv.js",
     "name": "ProgressBar",
     "imports": [
       "index.html"
     ]
   },
-  "_Toolbar.DWbDPF1d.js": {
-    "file": "static/js/Toolbar.DWbDPF1d.js",
+  "_Toolbar.CeH_BFPu.js": {
+    "file": "static/js/Toolbar.CeH_BFPu.js",
     "name": "Toolbar",
     "imports": [
       "index.html"
@@ -852,15 +852,15 @@
     "file": "static/js/UploadFileInfo.C-jY39rj.js",
     "name": "UploadFileInfo"
   },
-  "_base-input.BiTZoYhx.js": {
-    "file": "static/js/base-input.BiTZoYhx.js",
+  "_base-input.C7ImlwIw.js": {
+    "file": "static/js/base-input.C7ImlwIw.js",
     "name": "base-input",
     "imports": [
       "index.html"
     ]
   },
-  "_checkbox.-742GwSs.js": {
-    "file": "static/js/checkbox.-742GwSs.js",
+  "_checkbox.BsRJVYWo.js": {
+    "file": "static/js/checkbox.BsRJVYWo.js",
     "name": "checkbox",
     "imports": [
       "index.html"
@@ -870,15 +870,15 @@
     "file": "static/js/createDownloadLinkElement.ZaXNnPK4.js",
     "name": "createDownloadLinkElement"
   },
-  "_createSuper.CUmjs8Ve.js": {
-    "file": "static/js/createSuper.CUmjs8Ve.js",
+  "_createSuper.hh42FOcc.js": {
+    "file": "static/js/createSuper.hh42FOcc.js",
     "name": "createSuper",
     "imports": [
-      "_possibleConstructorReturn.Dld7uhNt.js"
+      "_possibleConstructorReturn.z4jU8BBc.js"
     ]
   },
-  "_es6.CIGjLulp.js": {
-    "file": "static/js/es6.CIGjLulp.js",
+  "_es6.4Q1ql_WY.js": {
+    "file": "static/js/es6.4Q1ql_WY.js",
     "name": "es6",
     "isDynamicEntry": true,
     "imports": [
@@ -893,58 +893,58 @@
       "../node_modules/native-file-system-adapter/src/adapters/memory.js"
     ]
   },
-  "_iframeResizer.contentWindow.BilDqYmc.js": {
-    "file": "static/js/iframeResizer.contentWindow.BilDqYmc.js",
+  "_iframeResizer.contentWindow.jiT5e5lp.js": {
+    "file": "static/js/iframeResizer.contentWindow.jiT5e5lp.js",
     "name": "iframeResizer.contentWindow",
     "isDynamicEntry": true,
     "imports": [
       "index.html"
     ]
   },
-  "_index.DgR7E2CV.css": {
-    "file": "static/css/index.DgR7E2CV.css",
-    "src": "_index.DgR7E2CV.css"
-  },
-  "_index.Dv1aDyDN.js": {
-    "file": "static/js/index.Dv1aDyDN.js",
+  "_index.DQLHGcFr.js": {
+    "file": "static/js/index.DQLHGcFr.js",
     "name": "index",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_withFullScreenWrapper.Jyjhb1lZ.js",
-      "_Toolbar.DWbDPF1d.js",
-      "_FormClearHelper.1jQyM2bS.js",
+      "_withFullScreenWrapper.CHzBmbfH.js",
+      "_Toolbar.CeH_BFPu.js",
+      "_FormClearHelper.C6iU1_Of.js",
       "_sprintf.D7DtBTRn.js",
-      "_checkbox.-742GwSs.js",
+      "_checkbox.BsRJVYWo.js",
       "_createDownloadLinkElement.ZaXNnPK4.js",
-      "_toConsumableArray.DhYBBgFh.js",
-      "_possibleConstructorReturn.Dld7uhNt.js",
-      "_createSuper.CUmjs8Ve.js",
-      "_FileDownload.esm.BpVajZQ3.js"
+      "_toConsumableArray.5736zdnj.js",
+      "_possibleConstructorReturn.z4jU8BBc.js",
+      "_createSuper.hh42FOcc.js",
+      "_FileDownload.esm.BwABWlh2.js"
     ],
     "dynamicImports": [
       "../node_modules/@glideapps/glide-data-grid/dist/esm/internal/data-grid-overlay-editor/data-grid-overlay-editor.js",
       "../node_modules/@glideapps/glide-data-grid/dist/esm/internal/data-grid-overlay-editor/private/number-overlay-editor.js",
-      "_es6.CIGjLulp.js"
+      "_es6.4Q1ql_WY.js"
     ],
     "css": [
       "static/css/index.DgR7E2CV.css"
     ]
   },
-  "_input.cOtSHZd3.js": {
-    "file": "static/js/input.cOtSHZd3.js",
+  "_index.DgR7E2CV.css": {
+    "file": "static/css/index.DgR7E2CV.css",
+    "src": "_index.DgR7E2CV.css"
+  },
+  "_input.BNYsq-HL.js": {
+    "file": "static/js/input.BNYsq-HL.js",
     "name": "input",
     "imports": [
       "index.html",
-      "_base-input.BiTZoYhx.js"
+      "_base-input.C7ImlwIw.js"
     ]
   },
   "_inputUtils.CptNuJwn.js": {
     "file": "static/js/inputUtils.CptNuJwn.js",
     "name": "inputUtils"
   },
-  "_possibleConstructorReturn.Dld7uhNt.js": {
-    "file": "static/js/possibleConstructorReturn.Dld7uhNt.js",
+  "_possibleConstructorReturn.z4jU8BBc.js": {
+    "file": "static/js/possibleConstructorReturn.z4jU8BBc.js",
     "name": "possibleConstructorReturn",
     "imports": [
       "index.html"
@@ -954,56 +954,56 @@
     "file": "static/js/sprintf.D7DtBTRn.js",
     "name": "sprintf"
   },
-  "_timepicker.CxrMJMvt.js": {
-    "file": "static/js/timepicker.CxrMJMvt.js",
+  "_timepicker.C5Sf8CEA.js": {
+    "file": "static/js/timepicker.C5Sf8CEA.js",
     "name": "timepicker",
     "imports": [
       "index.html",
-      "_possibleConstructorReturn.Dld7uhNt.js",
-      "_createSuper.CUmjs8Ve.js"
+      "_possibleConstructorReturn.z4jU8BBc.js",
+      "_createSuper.hh42FOcc.js"
     ]
   },
-  "_toConsumableArray.DhYBBgFh.js": {
-    "file": "static/js/toConsumableArray.DhYBBgFh.js",
+  "_toConsumableArray.5736zdnj.js": {
+    "file": "static/js/toConsumableArray.5736zdnj.js",
     "name": "toConsumableArray",
     "imports": [
       "index.html",
-      "_possibleConstructorReturn.Dld7uhNt.js"
+      "_possibleConstructorReturn.z4jU8BBc.js"
     ]
   },
-  "_uniqueId.c9cJnPMy.js": {
-    "file": "static/js/uniqueId.c9cJnPMy.js",
+  "_uniqueId.ve_kjmLn.js": {
+    "file": "static/js/uniqueId.ve_kjmLn.js",
     "name": "uniqueId",
     "imports": [
       "index.html"
     ]
   },
-  "_useBasicWidgetState.C47iqfja.js": {
-    "file": "static/js/useBasicWidgetState.C47iqfja.js",
+  "_useBasicWidgetState.CYCKMuui.js": {
+    "file": "static/js/useBasicWidgetState.CYCKMuui.js",
     "name": "useBasicWidgetState",
     "imports": [
       "index.html",
-      "_FormClearHelper.1jQyM2bS.js"
+      "_FormClearHelper.C6iU1_Of.js"
     ]
   },
-  "_useTextInputAutoExpand.a-Vn8Q6g.js": {
-    "file": "static/js/useTextInputAutoExpand.a-Vn8Q6g.js",
+  "_useTextInputAutoExpand.DLlblLzY.js": {
+    "file": "static/js/useTextInputAutoExpand.DLlblLzY.js",
     "name": "useTextInputAutoExpand",
     "imports": [
       "index.html",
-      "_base-input.BiTZoYhx.js"
+      "_base-input.C7ImlwIw.js"
     ]
   },
-  "_useUpdateUiValue.C6XHhtsY.js": {
-    "file": "static/js/useUpdateUiValue.C6XHhtsY.js",
+  "_useUpdateUiValue.BDdqQGX7.js": {
+    "file": "static/js/useUpdateUiValue.BDdqQGX7.js",
     "name": "useUpdateUiValue",
     "imports": [
       "index.html",
       "_inputUtils.CptNuJwn.js"
     ]
   },
-  "_useWaveformController.Bf69KTUb.js": {
-    "file": "static/js/useWaveformController.Bf69KTUb.js",
+  "_useWaveformController.COGsKnnJ.js": {
+    "file": "static/js/useWaveformController.COGsKnnJ.js",
     "name": "useWaveformController",
     "imports": [
       "index.html"
@@ -1013,15 +1013,15 @@
       "../node_modules/wavesurfer.js/dist/plugins/record.js"
     ]
   },
-  "_withFullScreenWrapper.Jyjhb1lZ.js": {
-    "file": "static/js/withFullScreenWrapper.Jyjhb1lZ.js",
+  "_withFullScreenWrapper.CHzBmbfH.js": {
+    "file": "static/js/withFullScreenWrapper.CHzBmbfH.js",
     "name": "withFullScreenWrapper",
     "imports": [
       "index.html"
     ]
   },
   "index.html": {
-    "file": "static/js/index.CyordHIN.js",
+    "file": "static/js/index.EW72XqXJ.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -1029,7 +1029,7 @@
       "../lib/src/components/elements/Audio/index.ts",
       "../lib/src/components/elements/Balloons/index.ts",
       "../lib/src/components/elements/Snow/index.ts",
-      "_index.Dv1aDyDN.js",
+      "_index.DQLHGcFr.js",
       "../lib/src/components/elements/ArrowVegaLiteChart/index.ts",
       "../lib/src/components/elements/Toast/index.ts",
       "../lib/src/components/elements/BokehChart/index.ts",
@@ -1063,14 +1063,14 @@
       "../lib/src/components/widgets/TimeInput/index.ts",
       "../lib/src/components/widgets/NumberInput/index.ts",
       "../lib/src/components/widgets/BidiComponent/index.tsx",
-      "_iframeResizer.contentWindow.BilDqYmc.js"
+      "_iframeResizer.contentWindow.jiT5e5lp.js"
     ],
     "css": [
       "static/css/index.BpABIXK9.css"
     ],
     "assets": [
       "static/media/fireworks.B4d-_KUe.gif",
-      "static/media/snowflake.DoZLVF3L.svg",
+      "static/media/snowflake.JU2jBHL8.svg",
       "static/media/KaTeX_AMS-Regular.BQhdFMY1.woff2",
       "static/media/KaTeX_AMS-Regular.DMm9YOAa.woff",
       "static/media/KaTeX_AMS-Regular.DRggAlZN.ttf",
@@ -1172,7 +1172,7 @@
     "src": "src/assets/img/fireworks.gif"
   },
   "src/assets/svg/snowflake.svg": {
-    "file": "static/media/snowflake.DoZLVF3L.svg",
+    "file": "static/media/snowflake.JU2jBHL8.svg",
     "src": "src/assets/svg/snowflake.svg"
   }
 }

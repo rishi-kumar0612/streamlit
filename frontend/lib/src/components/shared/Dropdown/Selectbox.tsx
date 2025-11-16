@@ -249,13 +249,10 @@ const Selectbox: FC<Props> = ({
                       overflow: "auto",
                       boxSizing: "border-box",
 
-
-
                       borderTopLeftRadius: theme.radii.xl,
                       borderTopRightRadius: theme.radii.xl,
                       borderBottomRightRadius: theme.radii.xl,
                       borderBottomLeftRadius: theme.radii.xl,
-
 
                       borderLeftWidth: theme.sizes.borderWidth,
                       borderRightWidth: theme.sizes.borderWidth,
@@ -271,7 +268,6 @@ const Selectbox: FC<Props> = ({
                       borderRightColor: theme.colors.borderColor,
                       borderTopColor: theme.colors.borderColor,
                       borderBottomColor: theme.colors.borderColor,
-
 
                       boxShadow: lightBackground
                         ? "0px 4px 16px rgba(0, 0, 0, 0.16)"

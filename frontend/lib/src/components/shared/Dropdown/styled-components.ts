@@ -40,7 +40,7 @@ export const ThemedStyledDropdownListItem = styled(StyledDropdownListItem, {
     marginTop: theme.spacing.none,
     marginBottom: theme.spacing.none,
     marginLeft: theme.spacing.none,
-    marginRight: theme.spacing.none, 
+    marginRight: theme.spacing.none,
 
     borderRadius: theme.radii.default,
     overflow: "hidden",
@@ -53,8 +53,8 @@ export const ThemedStyledDropdownListItem = styled(StyledDropdownListItem, {
 
     paddingTop: theme.spacing.none,
     paddingBottom: theme.spacing.none,
-    paddingLeft: theme.spacing.md,
-    paddingRight: theme.spacing.md,
+    paddingLeft: theme.spacing.lg,
+    paddingRight: theme.spacing.lg,
 
     fontSize: theme.fontSizes.md,
 

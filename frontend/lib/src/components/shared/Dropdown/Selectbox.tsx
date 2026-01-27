@@ -40,7 +40,7 @@ import { useEmotionTheme } from "~lib/hooks/useEmotionTheme"
 import { useSelectCommon } from "~lib/hooks/useSelectCommon"
 import { hasLightBackgroundColor } from "~lib/theme"
 import { LabelVisibilityOptions } from "~lib/util/utils"
-import { Padding } from "@emotion-icons/material-outlined"
+
 
 export interface Props {
   value: string | null
